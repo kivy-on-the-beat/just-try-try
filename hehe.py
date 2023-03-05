@@ -20,5 +20,6 @@ plateImg=img[y:y+h , x:x+w]
 # Show the output image           
 cv2.imshow("Plate" , plateImg)
 cv2.waitKey(0)
+print("thank you")
 # Wait for user to press any key           
 
